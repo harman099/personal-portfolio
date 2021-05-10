@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Harmandeep Singh Paul",
+    "description": "A Full Stack Developer who specializes in in JavaScript technologies across the whole stack (NodeJS, Express and React). Experience building complete web applications with backend API Systems.",
+    "image": "profilepic.jpg",
+    "bio": "Dynamic and detail-oriented Web Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently. Possesses a track record of developing ECommerce web-apps usig RESTful APIs, and a website for a pharmaceautical company. Armed with extensive understanding of end-toend SDLC",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "harmansinghpaul@gmail.com",
+    "phone": "+919896230777",
+    "github": "https://github.com/harman099",
+    "project": "https://github.com/harman099/personal-portfolio",
+    "address": {
+      "street": "17-A, Ashoka Colony",
+      "city": "Karnal",
+      "state": "Haryana",
+      "zip": "132001"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1oenlisCrgobbz_w6WbvGwKcqDtg8dEgh/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "facebook.com/1839849891",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/harman087",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/harmandeepsinghpaul/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/harman087",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/harman099",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Fluent in ReactJS and a everlong learner of JavaScript",
+    "education": [
+      {
+        "school": "Maharaja Agrasen Institute of Technology",
+        "degree": "Bachelors in Information Technology",
+        "graduated": "July 2021",
+        "description": "Learnt about the foundational knowledge of being a software engineer and prepared for that corporate lifestyle!"
+      },
+      {
+        "school": "St. Theresa’s Convent School,",
+        "degree": "Class 12, Non-Medical",
+        "graduated": "May 2017",
+        "description": "High school which taught me to stand my ground amongst the best of the best."
+      }
+    ],
+    "work": [
+      {
+        "company": "Global Culture",
+        "title": "Web Development Intern",
+        "years": "June 2020 to July 2020",
+        "description": "Assisted in the development of the company's website which included the development with NextJS and design grunt work like wireframing and market analysis."
+      },
+      {
+        "company": "SAG Health Science ",
+        "title": "Web Development Intern",
+        "years": "June 2019 - July 2019",
+        "description": "Assisted in the development of the company's website using JQuery. The process included the showcase of the products of the company using elegant design"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "CRWN-Wardrobe",
+        "category": "A prototype E-Commerce website",
+        "image": "01.webp",
+        "url": "http://crwn-wardrobe.herokuapp.com"
+      },
+      {
+        "title": "Intelli-Page",
+        "category": "A web-app that uses Clari-fai face detection API",
+        "image": "02.webp",
+        "url": "https://intelli-page.herokuapp.com/"
+      },
+      {
+        "title": "React Image Compressor",
+        "category": "Compresses images for web",
+        "image": "03.webp",
+        "url": "https://github.com/harman099"
+      },
+      {
+        "title": "Music Player",
+        "category": "A music player built with CSS and JavaScript",
+        "image": "04.webp",
+        "url": "https://github.com/harman099"
+      },
+      {
+        "title": "Quote Generator",
+        "category": "Simple API driven quote generator",
+        "image": "05.webp",
+        "url": "https://github.com/harman099"
+      },
+      {
+        "title": "Expense Tracker",
+        "category": "An expense tracker app built with react",
+        "image": "06.webp",
+        "url": "https://github.com/harman099"
+      },
+      {
+        "title": "Music Player : React Waves",
+        "category": "A music player built with react and REST APIs",
+        "image": "07.webp",
+        "url": "https://github.com/harman099"
+      }
+    ]
+  }
+}
