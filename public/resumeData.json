@@ -141,6 +141,12 @@
         "category": "A music player built with react and REST APIs",
         "image": "07.webp",
         "url": "https://github.com/harman099"
+      },
+      {
+        "title": "Capture-Portfolio",
+        "category": "A portfolio for a video production company.",
+        "image": "08.webp",
+        "url": "https://compassionate-liskov-3025e2.netlify.app/"
       }
     ]
   }
