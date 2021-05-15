@@ -148,6 +148,12 @@
         "image": "08.webp",
         "url": "https://compassionate-liskov-3025e2.netlify.app/"
       }
+      {
+        "title": "Ignite Games",
+        "category": "A Games showcase site using RAWG-API.",
+        "image": "09.webp",
+        "url": "https://ignitegamess.netlify.app/"
+      }
     ]
   }
 }
